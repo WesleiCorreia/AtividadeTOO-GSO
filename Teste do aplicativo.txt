@@ -1,14 +1,30 @@
 Tester: Vinicius Dantas Turma: B
 Relatório
 
-O jogo começa pedindo o nome do player 1 e a posição de seu barco, agora a vez do player 2 colocar seu nome e seu barco, e assim começa o jogo onde o player 1 escolhe onde quer atirar e em seguido o player 2, quando o turno de atirar acaba vem o turno de mudar a posição do barco e assim vai até todas as partes do barco acabarem, assim mostrando quem foi o vencedor.
+Telas
+Nomes player 1 player 2 -  
 
+Se Voce colocar o nome do player  funciona normal.
+Caso voce nao coloque nome nao aparecera nada.
+
+Escolha a posiçao do seu barco - 
+
+Funcionara normal caso voce escolha uma posiçao de um a nove.
+É possível escolher uma posição para seu navio inexistente ex:1231231 ele aceita só q fica impossível de acertar o barco   
+Quando não é declarado a posição do barco qualquer lugar que você atirar ira acertar o barco de seu inimigo.
+                    
+Escolha a posiçao que voce atirara -
+
+Funcionara normal caso voce esclha uma posiçao certa 
+Quando algum participante atira em uma posição que não está presente no tabuleiro o programa fica em uma repetição de jogada invalida.
 Quando algum jogar acerta o barco o nome fica colado com a parte do texto ex: joseafundou uma parte do barco.
 
+
+
+
+tela do ganhador - 
+
+funciona normal caso so um ganhe.
 Quando os dois players destroem todas as partes do navio aparece que os dois ganharam.
 
-Quando não é declarado a posição do barco qualquer lugar que você atirar ira acertar o barco de seu inimigo.
 
-Quando algum participante atira em uma posição que não está presente no tabuleiro o programa fica em uma repetição de jogada invalida.
-
-É possível escolher uma posição para seu navio inexistente ex:1231231 ele aceita só q fica impossível de acertar o barco
